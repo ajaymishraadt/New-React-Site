@@ -35,4 +35,4 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: ajaymishraadt/alphadotTechReactSite:0.0.1-SNAPSHOT
+        tags: ajaymishraadt/alphadottechreactsite:0.0.1-SNAPSHOT
